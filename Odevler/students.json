@@ -1,0 +1,11 @@
+{"ogrenciler":
+    [
+    {"Ad": "Ahmet", 
+    "Soyad": "Celik", 
+    "Yas": "21"},
+    
+    {"Ad":"Mesut",
+     "Soyad":"Kaya",
+     "Yas":"22"}
+    ]
+}

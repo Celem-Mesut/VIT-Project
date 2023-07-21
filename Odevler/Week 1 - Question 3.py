@@ -1,0 +1,5 @@
+f_name = input("First name:")
+l_name = input("Last name:")
+adres = input("Adres:")
+print(f_name, l_name, adres, sep="\n")
+print("*" * len(adres))

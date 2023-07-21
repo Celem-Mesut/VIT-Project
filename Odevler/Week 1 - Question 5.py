@@ -1,0 +1,5 @@
+name = input("Name:")
+surname = input("Surname:")
+print("-" * 30)
+print("|",name + " " + surname,"|",sep="\t")
+print("-" * 30)
